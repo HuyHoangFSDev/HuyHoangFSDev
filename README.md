@@ -18,17 +18,15 @@
  </div>  
  <div align="center">
    
-- My name is Nguyen Viet Hoang
+- My name is Nguyen The Huy Hoang
    
 - 🏫I am studying at DaiNam University
-
-- 🔭 I’m currently working on [Tic-Tac-Toe-Multiplayer](https://github.com/yukiharasensei/tic-tac-toe-multiplayer.git)
 
 - 🌱 I’m currently learning **NextRouter**
 
 - 💬 Ask me about **react, next, flutter**
 
-- 📫 How to reach me **nguyenhoang.miyuka@gmail.com**
+- 📫 How to reach me **nguyenthehuyhoang2002@gmail.com**
  </div>
 
 
