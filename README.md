@@ -2,7 +2,7 @@
 <br>
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/yukiharasensei/yukiharasensei/main/Qvbl.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/HuyHoangFSDev/HuyHoangFSDev/main/It.gif" align="center" style="width: 100%" />
 </div>  
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
