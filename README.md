@@ -19,7 +19,7 @@
    
 - 🏫I am studying at DaiNam University
 
-- 🌱 I’m currently learning **NextRouter**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **react, next, flutter**
 
