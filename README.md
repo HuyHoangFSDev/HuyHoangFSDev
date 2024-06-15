@@ -10,7 +10,7 @@
 
   <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+android+app+developer)](https://github.com/yukiharasensei)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+full+stack+developer)](https://github.com/huyhoangfsdev)
 
  </div>  
  <div align="center">
@@ -19,7 +19,7 @@
    
 - 🏫I am studying at DaiNam University
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript and NextJS**
 
 - 💬 Ask me about **react, next, flutter**
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nextjs,nodejs,express,java,dotnet,mongodb,flutter&perline=6)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nextjs,nodejs,nextjs,java,dotnet,mongodb,oracle&perline=6)]()
 
 </br>
 </div>
